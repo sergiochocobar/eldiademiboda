@@ -823,7 +823,7 @@ header{
     text-transform: uppercase;
     color: #ffff;
     font-style: normal;
-    font-size: 28px;
+    font-size: 24px;
     text-align: center;
     margin: 10px 0 5px 0;
     text-shadow: 1px 1px 10px rgba(0,0,0,0.5)
@@ -842,7 +842,7 @@ header{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, 205%);
+    transform: translate(-50%, 188%);
     text-shadow: 1px  1px 10px rgba(0,0,0,0.5)
 }
 
