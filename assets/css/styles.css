@@ -542,7 +542,7 @@ input, textarea {
     font-optical-sizing: auto;
     color: #000;
     font-style: normal;
-    font-size: 24px;
+    font-size: 20px;
     text-align: center;
     line-height: normal;
     align-items: start;
@@ -554,11 +554,11 @@ input, textarea {
     font-optical-sizing: auto;
     color: #000;
     font-style: normal;
-    font-size: 40px;
+    font-size: 34px;
     text-align: center;
     line-height: normal;
     align-items: start;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .slide-footer-bg-content .top-content img {
